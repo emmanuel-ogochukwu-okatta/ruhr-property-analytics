@@ -1,0 +1,501 @@
+unit_id,city,year_built,category,tickets,cost_eur
+P084-U03,Essen,1954,Heating,6,2364.0
+P048-U09,Bochum,1952,Heating,6,2260.0
+P019-U06,Gelsenkirchen,1988,Heating,6,1679.0
+P012-U05,Mülheim,1962,Heating,6,1293.0
+P024-U07,Gelsenkirchen,1956,Heating,6,1079.0
+P054-U11,Duisburg,1962,General Repair,6,997.0
+P109-U01,Essen,1954,General Repair,6,897.0
+P025-U01,Gelsenkirchen,1953,Damp & Mould,5,2644.0
+P056-U14,Gelsenkirchen,1965,Damp & Mould,5,2494.0
+P119-U04,Dortmund,1960,Heating,5,2053.0
+P034-U07,Bochum,1960,Heating,5,1547.0
+P010-U10,Dortmund,1952,Plumbing,5,1520.0
+P109-U08,Essen,1954,Heating,5,1520.0
+P034-U08,Bochum,1960,Plumbing,5,1508.0
+P071-U05,Essen,1966,Heating,5,1479.0
+P026-U05,Essen,1987,Heating,5,1465.0
+P041-U01,Dortmund,1981,Heating,5,1335.0
+P033-U17,Bochum,1984,Heating,5,1306.0
+P116-U05,Gelsenkirchen,1961,Heating,5,1216.0
+P047-U02,Bochum,1956,Windows & Doors,5,1206.0
+P095-U09,Bochum,1951,Heating,5,1194.0
+P096-U04,Duisburg,1957,Heating,5,1169.0
+P005-U10,Essen,1964,Plumbing,5,1095.0
+P017-U06,Dortmund,1963,Plumbing,5,927.0
+P035-U07,Dortmund,1954,Plumbing,5,796.0
+P083-U04,Gelsenkirchen,1950,Plumbing,5,753.0
+P024-U05,Gelsenkirchen,1956,General Repair,5,660.0
+P068-U09,Bochum,1959,General Repair,5,658.0
+P077-U05,Bochum,1964,General Repair,5,593.0
+P062-U07,Dortmund,1952,General Repair,5,575.0
+P105-U10,Gelsenkirchen,1966,General Repair,5,571.0
+P080-U03,Gelsenkirchen,1954,Damp & Mould,4,2630.0
+P009-U17,Essen,1972,Damp & Mould,4,2524.0
+P088-U12,Dortmund,1961,Damp & Mould,4,2275.0
+P052-U01,Essen,1962,Damp & Mould,4,1903.0
+P024-U09,Gelsenkirchen,1956,Heating,4,1636.0
+P048-U10,Bochum,1952,Heating,4,1554.0
+P119-U03,Dortmund,1960,Damp & Mould,4,1553.0
+P033-U12,Bochum,1984,Windows & Doors,4,1538.0
+P059-U07,Essen,1971,Heating,4,1443.0
+P113-U06,Bochum,1979,Plumbing,4,1432.0
+P059-U12,Essen,1971,Heating,4,1401.0
+P098-U09,Essen,1987,Heating,4,1394.0
+P095-U03,Bochum,1951,Heating,4,1393.0
+P014-U07,Gelsenkirchen,1969,Heating,4,1389.0
+P034-U01,Bochum,1960,Heating,4,1383.0
+P055-U09,Duisburg,1966,Heating,4,1359.0
+P020-U07,Duisburg,1963,Heating,4,1350.0
+P018-U12,Essen,1952,Windows & Doors,4,1336.0
+P023-U06,Mülheim,1957,Heating,4,1317.0
+P046-U06,Gelsenkirchen,1962,Heating,4,1297.0
+P020-U01,Duisburg,1963,Heating,4,1286.0
+P046-U01,Gelsenkirchen,1962,Heating,4,1260.0
+P105-U05,Gelsenkirchen,1966,Heating,4,1249.0
+P017-U14,Dortmund,1963,Heating,4,1222.0
+P069-U08,Essen,1966,Heating,4,1219.0
+P020-U11,Duisburg,1963,Heating,4,1196.0
+P020-U06,Duisburg,1963,Heating,4,1152.0
+P077-U01,Bochum,1964,Plumbing,4,1147.0
+P037-U12,Essen,1989,Heating,4,1144.0
+P006-U03,Mülheim,1958,Heating,4,1128.0
+P071-U05,Essen,1966,Plumbing,4,1116.0
+P117-U10,Duisburg,1981,Heating,4,1111.0
+P106-U02,Duisburg,1964,Heating,4,1110.0
+P005-U09,Essen,1964,Plumbing,4,1106.0
+P015-U08,Dortmund,1958,Plumbing,4,1053.0
+P024-U06,Gelsenkirchen,1956,Plumbing,4,1042.0
+P095-U02,Bochum,1951,Plumbing,4,1015.0
+P054-U10,Duisburg,1962,Heating,4,1006.0
+P034-U06,Bochum,1960,Heating,4,1005.0
+P052-U12,Essen,1962,Plumbing,4,999.0
+P033-U06,Bochum,1984,Plumbing,4,993.0
+P062-U11,Dortmund,1952,Heating,4,985.0
+P095-U05,Bochum,1951,Heating,4,965.0
+P037-U06,Essen,1989,Heating,4,949.0
+P072-U02,Bochum,1953,Plumbing,4,948.0
+P047-U04,Bochum,1956,Heating,4,940.0
+P063-U02,Dortmund,1964,Heating,4,939.0
+P097-U16,Bochum,2000,Heating,4,928.0
+P063-U04,Dortmund,1964,Plumbing,4,922.0
+P071-U11,Essen,1966,Plumbing,4,918.0
+P013-U07,Duisburg,1964,Plumbing,4,912.0
+P012-U02,Mülheim,1962,Plumbing,4,898.0
+P077-U06,Bochum,1964,Heating,4,868.0
+P047-U04,Bochum,1956,Plumbing,4,867.0
+P051-U03,Essen,1961,Plumbing,4,863.0
+P080-U06,Gelsenkirchen,1954,Heating,4,860.0
+P013-U07,Duisburg,1964,Electrical,4,859.0
+P034-U12,Bochum,1960,Heating,4,854.0
+P118-U08,Duisburg,1957,Plumbing,4,818.0
+P109-U07,Essen,1954,Plumbing,4,809.0
+P087-U02,Duisburg,1979,Heating,4,804.0
+P032-U08,Mülheim,1979,General Repair,4,789.0
+P072-U02,Bochum,1953,Heating,4,783.0
+P088-U14,Dortmund,1961,Plumbing,4,782.0
+P105-U05,Gelsenkirchen,1966,Plumbing,4,782.0
+P033-U07,Bochum,1984,Heating,4,767.0
+P041-U14,Dortmund,1981,General Repair,4,747.0
+P035-U04,Dortmund,1954,Plumbing,4,736.0
+P016-U15,Essen,1963,Heating,4,734.0
+P032-U10,Mülheim,1979,Plumbing,4,709.0
+P031-U04,Duisburg,1991,Heating,4,703.0
+P040-U05,Duisburg,1950,Plumbing,4,703.0
+P024-U16,Gelsenkirchen,1956,Plumbing,4,702.0
+P020-U03,Duisburg,1963,Heating,4,700.0
+P119-U01,Dortmund,1960,Plumbing,4,692.0
+P054-U06,Duisburg,1962,Heating,4,671.0
+P052-U12,Essen,1962,General Repair,4,655.0
+P062-U18,Dortmund,1952,Plumbing,4,655.0
+P027-U03,Dortmund,1982,Plumbing,4,641.0
+P068-U16,Bochum,1959,General Repair,4,634.0
+P105-U01,Gelsenkirchen,1966,General Repair,4,631.0
+P069-U01,Essen,1966,Common Areas,4,624.0
+P108-U09,Bochum,2017,General Repair,4,622.0
+P088-U10,Dortmund,1961,Plumbing,4,617.0
+P036-U05,Essen,1997,General Repair,4,610.0
+P032-U07,Mülheim,1979,Plumbing,4,603.0
+P015-U03,Dortmund,1958,Plumbing,4,602.0
+P007-U08,Gelsenkirchen,2001,General Repair,4,597.0
+P021-U11,Duisburg,2016,General Repair,4,589.0
+P095-U05,Bochum,1951,General Repair,4,588.0
+P102-U01,Duisburg,1969,Plumbing,4,563.0
+P119-U02,Dortmund,1960,General Repair,4,551.0
+P088-U18,Dortmund,1961,Heating,4,536.0
+P044-U01,Bochum,1950,General Repair,4,525.0
+P076-U05,Bochum,1973,Common Areas,4,522.0
+P055-U11,Duisburg,1966,General Repair,4,504.0
+P067-U12,Dortmund,2015,General Repair,4,489.0
+P020-U07,Duisburg,1963,General Repair,4,486.0
+P044-U05,Bochum,1950,General Repair,4,478.0
+P055-U01,Duisburg,1966,General Repair,4,471.0
+P109-U04,Essen,1954,General Repair,4,451.0
+P056-U07,Gelsenkirchen,1965,Plumbing,4,440.0
+P001-U01,Gelsenkirchen,1963,General Repair,4,435.0
+P062-U09,Dortmund,1952,Plumbing,4,431.0
+P044-U08,Bochum,1950,General Repair,4,427.0
+P036-U02,Essen,1997,General Repair,4,417.0
+P082-U07,Bochum,1958,General Repair,4,401.0
+P071-U09,Essen,1966,Electrical,4,381.0
+P099-U06,Essen,1986,General Repair,4,376.0
+P081-U10,Duisburg,1994,General Repair,4,345.0
+P098-U09,Essen,1987,General Repair,4,319.0
+P016-U06,Essen,1963,General Repair,4,307.0
+P088-U15,Dortmund,1961,Damp & Mould,3,3321.0
+P013-U08,Duisburg,1964,Heating,3,2231.0
+P080-U12,Gelsenkirchen,1954,Damp & Mould,3,2217.0
+P062-U01,Dortmund,1952,Damp & Mould,3,2124.0
+P046-U06,Gelsenkirchen,1962,Damp & Mould,3,2108.0
+P013-U01,Duisburg,1964,Damp & Mould,3,2006.0
+P087-U05,Duisburg,1979,Damp & Mould,3,1958.0
+P039-U01,Essen,1969,Damp & Mould,3,1921.0
+P094-U02,Bochum,1953,Damp & Mould,3,1840.0
+P109-U15,Essen,1954,Damp & Mould,3,1822.0
+P020-U06,Duisburg,1963,Damp & Mould,3,1758.0
+P082-U09,Bochum,1958,Damp & Mould,3,1717.0
+P052-U08,Essen,1962,Damp & Mould,3,1696.0
+P056-U11,Gelsenkirchen,1965,Damp & Mould,3,1670.0
+P107-U08,Dortmund,1968,Damp & Mould,3,1583.0
+P114-U05,Dortmund,1980,Damp & Mould,3,1572.0
+P034-U02,Bochum,1960,Heating,3,1547.0
+P052-U11,Essen,1962,Heating,3,1503.0
+P087-U11,Duisburg,1979,Damp & Mould,3,1423.0
+P109-U11,Essen,1954,Damp & Mould,3,1418.0
+P048-U12,Bochum,1952,Damp & Mould,3,1340.0
+P019-U04,Gelsenkirchen,1988,Damp & Mould,3,1326.0
+P100-U02,Mülheim,1954,Damp & Mould,3,1325.0
+P096-U01,Duisburg,1957,Heating,3,1323.0
+P015-U11,Dortmund,1958,Heating,3,1293.0
+P062-U08,Dortmund,1952,Damp & Mould,3,1290.0
+P101-U12,Mülheim,1979,Heating,3,1277.0
+P025-U09,Gelsenkirchen,1953,Damp & Mould,3,1245.0
+P120-U04,Duisburg,1977,Electrical,3,1226.0
+P047-U02,Bochum,1956,Heating,3,1225.0
+P117-U02,Duisburg,1981,Heating,3,1208.0
+P082-U08,Bochum,1958,Heating,3,1195.0
+P070-U08,Dortmund,1973,Heating,3,1192.0
+P001-U03,Gelsenkirchen,1963,Damp & Mould,3,1187.0
+P101-U10,Mülheim,1979,Plumbing,3,1170.0
+P040-U08,Duisburg,1950,Damp & Mould,3,1144.0
+P119-U01,Dortmund,1960,Heating,3,1109.0
+P062-U07,Dortmund,1952,Heating,3,1108.0
+P107-U02,Dortmund,1968,Heating,3,1107.0
+P080-U02,Gelsenkirchen,1954,Heating,3,1106.0
+P101-U08,Mülheim,1979,Damp & Mould,3,1100.0
+P089-U05,Essen,1977,Heating,3,1099.0
+P074-U11,Essen,1985,Windows & Doors,3,1080.0
+P009-U16,Essen,1972,Heating,3,1072.0
+P095-U06,Bochum,1951,Plumbing,3,1071.0
+P013-U04,Duisburg,1964,Plumbing,3,1070.0
+P082-U04,Bochum,1958,Heating,3,1063.0
+P102-U02,Duisburg,1969,Heating,3,1055.0
+P052-U02,Essen,1962,Heating,3,1054.0
+P114-U06,Dortmund,1980,Heating,3,1054.0
+P098-U05,Essen,1987,Heating,3,1051.0
+P023-U08,Mülheim,1957,Heating,3,1046.0
+P065-U02,Duisburg,1988,Heating,3,1042.0
+P088-U14,Dortmund,1961,Windows & Doors,3,1032.0
+P115-U09,Essen,1980,Heating,3,1030.0
+P005-U01,Essen,1964,Heating,3,1023.0
+P052-U07,Essen,1962,Heating,3,1018.0
+P011-U09,Bochum,1973,Heating,3,1015.0
+P101-U06,Mülheim,1979,Heating,3,1009.0
+P011-U07,Bochum,1973,Heating,3,999.0
+P014-U04,Gelsenkirchen,1969,Heating,3,998.0
+P018-U03,Essen,1952,Heating,3,998.0
+P003-U05,Gelsenkirchen,1988,Heating,3,991.0
+P040-U04,Duisburg,1950,Heating,3,989.0
+P040-U02,Duisburg,1950,Heating,3,986.0
+P077-U07,Bochum,1964,Plumbing,3,984.0
+P016-U14,Essen,1963,Plumbing,3,975.0
+P087-U06,Duisburg,1979,Plumbing,3,975.0
+P033-U06,Bochum,1984,Heating,3,971.0
+P051-U04,Essen,1961,Heating,3,970.0
+P016-U06,Essen,1963,Heating,3,967.0
+P081-U07,Duisburg,1994,Plumbing,3,963.0
+P078-U04,Duisburg,1981,Heating,3,955.0
+P036-U09,Essen,1997,Heating,3,942.0
+P011-U07,Bochum,1973,Plumbing,3,936.0
+P068-U06,Bochum,1959,Heating,3,935.0
+P080-U14,Gelsenkirchen,1954,Windows & Doors,3,934.0
+P105-U04,Gelsenkirchen,1966,Heating,3,925.0
+P036-U06,Essen,1997,Plumbing,3,924.0
+P106-U03,Duisburg,1964,Heating,3,918.0
+P003-U06,Gelsenkirchen,1988,Plumbing,3,917.0
+P010-U10,Dortmund,1952,Heating,3,915.0
+P070-U07,Dortmund,1973,Plumbing,3,913.0
+P080-U13,Gelsenkirchen,1954,Heating,3,905.0
+P001-U04,Gelsenkirchen,1963,Heating,3,902.0
+P068-U07,Bochum,1959,Heating,3,890.0
+P023-U07,Mülheim,1957,Heating,3,889.0
+P080-U05,Gelsenkirchen,1954,Heating,3,877.0
+P068-U12,Bochum,1959,Heating,3,869.0
+P075-U05,Essen,1989,Heating,3,858.0
+P041-U06,Dortmund,1981,Plumbing,3,857.0
+P100-U07,Mülheim,1954,Damp & Mould,3,854.0
+P054-U12,Duisburg,1962,Heating,3,851.0
+P023-U05,Mülheim,1957,Damp & Mould,3,848.0
+P106-U03,Duisburg,1964,Plumbing,3,845.0
+P045-U06,Gelsenkirchen,1981,Heating,3,836.0
+P079-U01,Dortmund,1977,Heating,3,829.0
+P083-U17,Gelsenkirchen,1950,Plumbing,3,826.0
+P074-U11,Essen,1985,Heating,3,823.0
+P037-U13,Essen,1989,Heating,3,821.0
+P061-U11,Duisburg,2007,Heating,3,820.0
+P064-U11,Gelsenkirchen,1960,Heating,3,819.0
+P114-U05,Dortmund,1980,Plumbing,3,818.0
+P015-U15,Dortmund,1958,Heating,3,817.0
+P120-U01,Duisburg,1977,Heating,3,816.0
+P086-U04,Essen,1951,Heating,3,814.0
+P038-U09,Dortmund,1973,Heating,3,811.0
+P062-U02,Dortmund,1952,Heating,3,809.0
+P109-U14,Essen,1954,Plumbing,3,808.0
+P034-U13,Bochum,1960,Heating,3,807.0
+P052-U06,Essen,1962,Heating,3,801.0
+P104-U02,Mülheim,1981,Windows & Doors,3,801.0
+P046-U04,Gelsenkirchen,1962,Heating,3,800.0
+P033-U11,Bochum,1984,Plumbing,3,799.0
+P063-U06,Dortmund,1964,Plumbing,3,799.0
+P066-U06,Dortmund,1977,Heating,3,795.0
+P116-U03,Gelsenkirchen,1961,Heating,3,789.0
+P047-U01,Bochum,1956,Plumbing,3,783.0
+P047-U08,Bochum,1956,Heating,3,768.0
+P080-U06,Gelsenkirchen,1954,Plumbing,3,768.0
+P109-U05,Essen,1954,Heating,3,760.0
+P027-U05,Dortmund,1982,Plumbing,3,759.0
+P011-U08,Bochum,1973,Windows & Doors,3,752.0
+P070-U13,Dortmund,1973,Plumbing,3,751.0
+P085-U06,Essen,1961,Heating,3,749.0
+P072-U05,Bochum,1953,Plumbing,3,748.0
+P112-U05,Essen,1994,Heating,3,748.0
+P038-U10,Dortmund,1973,Heating,3,746.0
+P109-U15,Essen,1954,Windows & Doors,3,744.0
+P115-U08,Essen,1980,Heating,3,741.0
+P096-U01,Duisburg,1957,Plumbing,3,736.0
+P113-U08,Bochum,1979,Damp & Mould,3,736.0
+P052-U03,Essen,1962,Heating,3,735.0
+P056-U14,Gelsenkirchen,1965,Plumbing,3,735.0
+P056-U06,Gelsenkirchen,1965,Heating,3,728.0
+P066-U04,Dortmund,1977,Heating,3,728.0
+P082-U11,Bochum,1958,Heating,3,722.0
+P114-U03,Dortmund,1980,Plumbing,3,722.0
+P018-U08,Essen,1952,Plumbing,3,719.0
+P002-U05,Dortmund,1965,Plumbing,3,717.0
+P064-U14,Gelsenkirchen,1960,Heating,3,715.0
+P024-U12,Gelsenkirchen,1956,Plumbing,3,710.0
+P083-U06,Gelsenkirchen,1950,Heating,3,709.0
+P016-U17,Essen,1963,Plumbing,3,704.0
+P034-U10,Bochum,1960,Plumbing,3,699.0
+P066-U03,Dortmund,1977,Heating,3,699.0
+P024-U03,Gelsenkirchen,1956,Plumbing,3,698.0
+P045-U06,Gelsenkirchen,1981,Plumbing,3,698.0
+P107-U12,Dortmund,1968,Heating,3,697.0
+P115-U11,Essen,1980,Electrical,3,694.0
+P063-U10,Dortmund,1964,Heating,3,693.0
+P014-U01,Gelsenkirchen,1969,Plumbing,3,690.0
+P113-U06,Bochum,1979,Heating,3,690.0
+P107-U03,Dortmund,1968,Heating,3,688.0
+P115-U17,Essen,1980,Plumbing,3,688.0
+P010-U10,Dortmund,1952,Windows & Doors,3,685.0
+P087-U14,Duisburg,1979,Heating,3,683.0
+P033-U01,Bochum,1984,Plumbing,3,682.0
+P064-U03,Gelsenkirchen,1960,Heating,3,681.0
+P109-U10,Essen,1954,Plumbing,3,679.0
+P111-U08,Dortmund,1999,Heating,3,679.0
+P109-U02,Essen,1954,Plumbing,3,678.0
+P077-U03,Bochum,1964,Heating,3,675.0
+P009-U01,Essen,1972,Plumbing,3,674.0
+P119-U03,Dortmund,1960,Plumbing,3,672.0
+P024-U14,Gelsenkirchen,1956,Heating,3,671.0
+P088-U11,Dortmund,1961,Plumbing,3,671.0
+P009-U14,Essen,1972,Heating,3,669.0
+P068-U11,Bochum,1959,Heating,3,669.0
+P086-U01,Essen,1951,General Repair,3,668.0
+P056-U02,Gelsenkirchen,1965,Electrical,3,664.0
+P033-U10,Bochum,1984,Windows & Doors,3,663.0
+P107-U11,Dortmund,1968,Windows & Doors,3,663.0
+P044-U08,Bochum,1950,Plumbing,3,660.0
+P054-U03,Duisburg,1962,Plumbing,3,660.0
+P064-U13,Gelsenkirchen,1960,Windows & Doors,3,657.0
+P024-U07,Gelsenkirchen,1956,Plumbing,3,655.0
+P095-U11,Bochum,1951,Plumbing,3,655.0
+P029-U02,Essen,2006,Plumbing,3,652.0
+P005-U09,Essen,1964,Heating,3,644.0
+P108-U06,Bochum,2017,Plumbing,3,641.0
+P014-U05,Gelsenkirchen,1969,Plumbing,3,639.0
+P067-U02,Dortmund,2015,Plumbing,3,638.0
+P028-U06,Essen,1993,Heating,3,635.0
+P054-U07,Duisburg,1962,Electrical,3,635.0
+P015-U16,Dortmund,1958,Plumbing,3,626.0
+P107-U08,Dortmund,1968,Windows & Doors,3,619.0
+P088-U11,Dortmund,1961,Heating,3,618.0
+P106-U01,Duisburg,1964,Plumbing,3,617.0
+P119-U05,Dortmund,1960,Plumbing,3,614.0
+P028-U03,Essen,1993,Heating,3,613.0
+P019-U04,Gelsenkirchen,1988,Windows & Doors,3,611.0
+P024-U09,Gelsenkirchen,1956,Plumbing,3,608.0
+P038-U13,Dortmund,1973,Plumbing,3,606.0
+P016-U01,Essen,1963,Electrical,3,599.0
+P100-U08,Mülheim,1954,Heating,3,595.0
+P117-U05,Duisburg,1981,Common Areas,3,594.0
+P077-U09,Bochum,1964,Windows & Doors,3,590.0
+P118-U07,Duisburg,1957,Windows & Doors,3,587.0
+P105-U11,Gelsenkirchen,1966,Plumbing,3,586.0
+P118-U09,Duisburg,1957,Heating,3,579.0
+P039-U02,Essen,1969,Heating,3,578.0
+P015-U03,Dortmund,1958,General Repair,3,573.0
+P100-U06,Mülheim,1954,Plumbing,3,570.0
+P009-U15,Essen,1972,Heating,3,569.0
+P088-U10,Dortmund,1961,Windows & Doors,3,569.0
+P062-U03,Dortmund,1952,Heating,3,567.0
+P009-U18,Essen,1972,Heating,3,564.0
+P092-U01,Duisburg,1953,Plumbing,3,564.0
+P010-U04,Dortmund,1952,Plumbing,3,563.0
+P064-U04,Gelsenkirchen,1960,Heating,3,558.0
+P102-U02,Duisburg,1969,Plumbing,3,555.0
+P070-U07,Dortmund,1973,Heating,3,551.0
+P016-U12,Essen,1963,Heating,3,550.0
+P111-U17,Dortmund,1999,Heating,3,550.0
+P029-U14,Essen,2006,Heating,3,548.0
+P015-U05,Dortmund,1958,Plumbing,3,546.0
+P015-U16,Dortmund,1958,Electrical,3,544.0
+P032-U08,Mülheim,1979,Plumbing,3,538.0
+P075-U02,Essen,1989,Electrical,3,537.0
+P094-U04,Bochum,1953,Windows & Doors,3,535.0
+P119-U04,Dortmund,1960,Plumbing,3,535.0
+P004-U03,Duisburg,1970,Electrical,3,533.0
+P055-U12,Duisburg,1966,Plumbing,3,529.0
+P055-U03,Duisburg,1966,Plumbing,3,525.0
+P064-U09,Gelsenkirchen,1960,Plumbing,3,524.0
+P064-U04,Gelsenkirchen,1960,Damp & Mould,3,523.0
+P086-U01,Essen,1951,Plumbing,3,523.0
+P005-U06,Essen,1964,General Repair,3,520.0
+P034-U09,Bochum,1960,Electrical,3,516.0
+P039-U02,Essen,1969,Plumbing,3,515.0
+P078-U13,Duisburg,1981,Plumbing,3,515.0
+P080-U11,Gelsenkirchen,1954,Heating,3,515.0
+P068-U14,Bochum,1959,Heating,3,514.0
+P105-U11,Gelsenkirchen,1966,Heating,3,514.0
+P116-U03,Gelsenkirchen,1961,Electrical,3,513.0
+P013-U01,Duisburg,1964,Electrical,3,512.0
+P054-U15,Duisburg,1962,Electrical,3,507.0
+P081-U01,Duisburg,1994,Plumbing,3,503.0
+P115-U18,Essen,1980,Plumbing,3,502.0
+P032-U07,Mülheim,1979,General Repair,3,501.0
+P005-U10,Essen,1964,General Repair,3,497.0
+P119-U03,Dortmund,1960,Windows & Doors,3,497.0
+P068-U12,Bochum,1959,Plumbing,3,496.0
+P104-U01,Mülheim,1981,Electrical,3,496.0
+P019-U10,Gelsenkirchen,1988,Plumbing,3,489.0
+P024-U04,Gelsenkirchen,1956,Plumbing,3,479.0
+P066-U01,Dortmund,1977,General Repair,3,478.0
+P120-U08,Duisburg,1977,Heating,3,478.0
+P006-U02,Mülheim,1958,General Repair,3,476.0
+P077-U06,Bochum,1964,Plumbing,3,476.0
+P020-U10,Duisburg,1963,General Repair,3,475.0
+P091-U02,Essen,1998,Plumbing,3,473.0
+P062-U17,Dortmund,1952,Electrical,3,472.0
+P005-U11,Essen,1964,Electrical,3,467.0
+P023-U01,Mülheim,1957,Common Areas,3,462.0
+P062-U07,Dortmund,1952,Plumbing,3,462.0
+P054-U14,Duisburg,1962,General Repair,3,460.0
+P094-U05,Bochum,1953,Plumbing,3,460.0
+P034-U10,Bochum,1960,Electrical,3,459.0
+P088-U17,Dortmund,1961,Plumbing,3,459.0
+P056-U02,Gelsenkirchen,1965,Plumbing,3,458.0
+P024-U05,Gelsenkirchen,1956,Electrical,3,457.0
+P069-U06,Essen,1966,General Repair,3,456.0
+P037-U05,Essen,1989,Electrical,3,455.0
+P070-U15,Dortmund,1973,General Repair,3,453.0
+P112-U08,Essen,1994,Plumbing,3,452.0
+P099-U03,Essen,1986,Plumbing,3,450.0
+P048-U01,Bochum,1952,Windows & Doors,3,449.0
+P069-U08,Essen,1966,Plumbing,3,449.0
+P095-U06,Bochum,1951,Electrical,3,448.0
+P101-U11,Mülheim,1979,Electrical,3,448.0
+P118-U01,Duisburg,1957,Common Areas,3,448.0
+P077-U10,Bochum,1964,Plumbing,3,443.0
+P010-U11,Dortmund,1952,General Repair,3,441.0
+P012-U01,Mülheim,1962,General Repair,3,440.0
+P004-U07,Duisburg,1970,Plumbing,3,436.0
+P070-U11,Dortmund,1973,Plumbing,3,436.0
+P005-U08,Essen,1964,Heating,3,434.0
+P116-U02,Gelsenkirchen,1961,General Repair,3,434.0
+P089-U11,Essen,1977,Heating,3,433.0
+P115-U05,Essen,1980,Electrical,3,430.0
+P037-U08,Essen,1989,General Repair,3,429.0
+P002-U04,Dortmund,1965,Plumbing,3,424.0
+P030-U14,Duisburg,1991,Common Areas,3,421.0
+P088-U01,Dortmund,1961,General Repair,3,420.0
+P119-U05,Dortmund,1960,Electrical,3,419.0
+P083-U01,Gelsenkirchen,1950,Pest Control,3,418.0
+P023-U07,Mülheim,1957,Plumbing,3,416.0
+P012-U03,Mülheim,1962,General Repair,3,415.0
+P065-U03,Duisburg,1988,Plumbing,3,412.0
+P016-U05,Essen,1963,Common Areas,3,408.0
+P027-U10,Dortmund,1982,Windows & Doors,3,406.0
+P083-U03,Gelsenkirchen,1950,Electrical,3,406.0
+P083-U17,Gelsenkirchen,1950,General Repair,3,406.0
+P088-U12,Dortmund,1961,General Repair,3,406.0
+P099-U05,Essen,1986,Electrical,3,406.0
+P068-U07,Bochum,1959,Plumbing,3,404.0
+P011-U14,Bochum,1973,General Repair,3,402.0
+P102-U05,Duisburg,1969,General Repair,3,402.0
+P012-U05,Mülheim,1962,Plumbing,3,397.0
+P010-U08,Dortmund,1952,General Repair,3,396.0
+P024-U16,Gelsenkirchen,1956,General Repair,3,395.0
+P088-U02,Dortmund,1961,General Repair,3,395.0
+P038-U01,Dortmund,1973,Heating,3,393.0
+P040-U03,Duisburg,1950,Windows & Doors,3,391.0
+P040-U01,Duisburg,1950,Common Areas,3,379.0
+P054-U14,Duisburg,1962,Heating,3,378.0
+P080-U03,Gelsenkirchen,1954,Electrical,3,377.0
+P046-U04,Gelsenkirchen,1962,Electrical,3,374.0
+P027-U12,Dortmund,1982,General Repair,3,373.0
+P117-U10,Duisburg,1981,General Repair,3,373.0
+P037-U07,Essen,1989,General Repair,3,371.0
+P056-U06,Gelsenkirchen,1965,Common Areas,3,368.0
+P070-U13,Dortmund,1973,General Repair,3,368.0
+P088-U09,Dortmund,1961,Plumbing,3,367.0
+P012-U01,Mülheim,1962,Windows & Doors,3,364.0
+P109-U15,Essen,1954,Plumbing,3,363.0
+P048-U11,Bochum,1952,General Repair,3,360.0
+P078-U12,Duisburg,1981,Plumbing,3,360.0
+P060-U03,Essen,1993,Electrical,3,358.0
+P020-U06,Duisburg,1963,General Repair,3,356.0
+P048-U16,Bochum,1952,General Repair,3,349.0
+P037-U12,Essen,1989,General Repair,3,348.0
+P088-U15,Dortmund,1961,General Repair,3,344.0
+P025-U09,Gelsenkirchen,1953,General Repair,3,342.0
+P063-U09,Dortmund,1964,General Repair,3,333.0
+P088-U16,Dortmund,1961,General Repair,3,330.0
+P037-U03,Essen,1989,General Repair,3,328.0
+P068-U06,Bochum,1959,Electrical,3,328.0
+P083-U07,Gelsenkirchen,1950,General Repair,3,326.0
+P025-U05,Gelsenkirchen,1953,General Repair,3,321.0
+P068-U15,Bochum,1959,Electrical,3,321.0
+P016-U07,Essen,1963,General Repair,3,320.0
+P082-U04,Bochum,1958,Common Areas,3,319.0
+P034-U11,Bochum,1960,General Repair,3,316.0
+P054-U03,Duisburg,1962,Windows & Doors,3,311.0
+P056-U13,Gelsenkirchen,1965,General Repair,3,303.0
+P108-U01,Bochum,2017,Windows & Doors,3,300.0
+P080-U17,Gelsenkirchen,1954,Plumbing,3,299.0
+P094-U04,Bochum,1953,General Repair,3,298.0
+P077-U09,Bochum,1964,General Repair,3,292.0
+P010-U09,Dortmund,1952,General Repair,3,290.0
+P064-U14,Gelsenkirchen,1960,General Repair,3,289.0
+P087-U01,Duisburg,1979,General Repair,3,289.0
+P030-U04,Duisburg,1991,General Repair,3,285.0
+P062-U10,Dortmund,1952,General Repair,3,283.0
+P084-U02,Essen,1954,General Repair,3,282.0
+P004-U04,Duisburg,1970,General Repair,3,281.0
+P064-U02,Gelsenkirchen,1960,General Repair,3,279.0
+P022-U08,Bochum,1970,General Repair,3,277.0
+P064-U08,Gelsenkirchen,1960,General Repair,3,262.0
+P056-U09,Gelsenkirchen,1965,Heating,3,259.0
+P056-U05,Gelsenkirchen,1965,Plumbing,3,252.0
+P088-U11,Dortmund,1961,General Repair,3,241.0
+P119-U02,Dortmund,1960,Plumbing,3,223.0
+P018-U15,Essen,1952,Heating,3,192.0

@@ -1,0 +1,11 @@
+property_id,city,year_built,energy_class,units_count,repair_cost_eur,cost_per_unit_eur,cost_rank
+P119,Dortmund,1960,F,7,16302.0,2329.0,1
+P023,Mülheim,1957,G,9,20697.0,2300.0,2
+P086,Essen,1951,F,4,9079.0,2270.0,3
+P006,Mülheim,1958,F,4,9016.0,2254.0,4
+P046,Gelsenkirchen,1962,F,6,13424.0,2237.0,5
+P051,Essen,1961,F,4,8720.0,2180.0,6
+P082,Bochum,1958,F,11,23137.0,2103.0,7
+P020,Duisburg,1963,F,12,24399.0,2033.0,8
+P052,Essen,1962,F,12,24369.0,2031.0,9
+P047,Bochum,1956,F,9,17714.0,1968.0,10

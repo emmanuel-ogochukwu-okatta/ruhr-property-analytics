@@ -1,0 +1,9 @@
+contractor_name,trade,closed_tickets,avg_resolution_hours,sla_met_pct,avg_cost_eur
+Contractor C,Electrical,660,203.0,68.5,167.0
+Contractor F,General Repairs,874,248.0,55.1,136.0
+Contractor E,General Repairs,893,186.0,72.0,134.0
+Contractor B,Heating & Plumbing,1498,270.0,38.5,254.0
+Contractor A,Heating & Plumbing,1464,188.0,61.0,256.0
+Contractor D,Joinery & Windows,605,226.0,62.0,243.0
+Contractor G,Lift Service,95,177.0,66.3,538.0
+Contractor H,Pest & Damp,872,254.0,59.2,494.0

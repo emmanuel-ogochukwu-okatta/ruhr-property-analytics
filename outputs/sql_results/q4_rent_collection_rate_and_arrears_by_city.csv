@@ -1,0 +1,7 @@
+city,rent_due_eur,arrears_eur,collection_rate_pct,late_or_missed_pct
+Gelsenkirchen,4115713.0,153073.0,96.28,15.5
+Duisburg,5405188.0,138116.0,97.44,12.2
+Bochum,4579405.0,98926.0,97.84,9.5
+Essen,7916237.0,149916.0,98.11,9.2
+Dortmund,6687972.0,107244.0,98.4,7.8
+Mülheim,1537600.0,18468.0,98.8,6.2
