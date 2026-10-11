@@ -6,7 +6,7 @@ A housing company managing **1,308 flats in 120 buildings** across Essen, Bochum
 
 I built the full pipeline: messy system exports → cleaning and validation in Python → a star-schema database queried with SQL → an interactive Power BI dashboard with findings management can act on.
 
-> **Why this project:** I worked for over six years in residential property and facility management in the Ruhr area, coordinating repairs across 120+ properties a week. This project answers the questions I saw property managers ask every day — with data.
+> **Why this project:** I worked for over six years in residential property and facility management in the Ruhr area, planning and carrying out work across 120+ properties a week. This project answers the questions I saw property managers ask every day — with data.
 
 ---
 
