@@ -1,6 +1,6 @@
 # Ruhr Property Analytics — Residential Portfolio Dashboard
 
-**End-to-end data analytics project: Python · SQL · Power BI**
+**End-to-end data analytics project: Python · SQL · Power BI · A/B testing**
 
 A housing company managing **1,308 flats in 120 buildings** across Essen, Bochum, Dortmund, Duisburg, Gelsenkirchen and Mülheim wants to know where it is losing money: through vacancy, unpaid rent, or repairs — and what to do about it.
 
@@ -38,6 +38,38 @@ Headline KPIs: occupancy **98.1%** · rent collection **97.80%** · arrears **�
 Full write-up with charts: [`outputs/insights.md`](outputs/insights.md)
 
 ![Contractor SLA](outputs/charts/04_contractor_sla.png)
+
+---
+
+## A/B test: do preventive heating checks pay off?
+
+Finding #1 says heating faults cluster in winter. So I designed a randomised pilot:
+**59 of the 120 buildings, chosen at random, get a preventive heating check in September 2025; the other 61 don't**,
+and I compare heating tickets in the 2025/26 heating season.
+
+**Result:** in buildings built **before 1970**, the check cut heating tickets by **45%**
+(95% CI −64% to −20%, p = 0.047), saving about **€777 per building** against a €250 check.
+Across all buildings the effect is −24% (p = 0.051, borderline); in newer buildings there is no
+clear effect yet.
+**Decision:** roll out checks to pre-1970 buildings; keep testing newer ones for another season.
+
+![A/B test effect by segment](outputs/charts/08_ab_test_effect_by_segment.png)
+
+What the analysis covers ([`python/06_ab_test_analysis.py`](python/06_ab_test_analysis.py)):
+- **Design before data:** hypothesis, primary metric, α = 0.05 and the minimum detectable effect
+  (≈20%, from a power calculation on the real pre-period data) fixed in advance
+- **Randomisation by building, stratified by age**: flats share a boiler, so flats are not
+  independent
+- **Sanity checks:** sample ratio mismatch and pre-period balance
+- **Inference:** permutation test and stratified bootstrap over whole buildings, Welch t-test as a check
+- **CUPED** variance reduction using each building's ticket history
+- **Business case** per segment, plus a Power BI what-if slider for the check cost
+  ([`powerbi/AB_TEST_PAGE.md`](powerbi/AB_TEST_PAGE.md))
+
+Full readout: [`outputs/ab_test/readout.md`](outputs/ab_test/readout.md).
+The pilot season is simulated with a planted effect (40% in pre-1970 buildings, about 23% in
+newer ones). The analysis recovered the older-building effect but could not detect the
+smaller one with 63 buildings — exactly the limit the power calculation predicted.
 
 ---
 
@@ -91,20 +123,25 @@ dim_date ──1:*── fact_unit_month[month], fact_rent_payment[month], fact_
 ruhr-property-analytics/
 ├── data/
 │   ├── raw/          # messy exports (input)
-│   └── clean/        # star schema CSVs (Power BI source)
+│   ├── clean/        # star schema CSVs (Power BI source)
+│   └── experiment/   # A/B test: assignment + pilot-season tickets
 ├── python/
 │   ├── 01_generate_data.py
 │   ├── 02_clean_and_validate.py
 │   ├── 03_run_sql.py
-│   └── 04_eda_insights.py
+│   ├── 04_eda_insights.py
+│   ├── 05_generate_experiment.py
+│   └── 06_ab_test_analysis.py
 ├── sql/
 │   ├── 01_create_tables.sql
 │   └── 02_analysis_queries.sql
 ├── powerbi/
+│   ├── AB_TEST_PAGE.md
 │   ├── BUILD_GUIDE.md
 │   ├── DAX_measures.md
 │   └── ruhr_theme.json
 ├── outputs/
+│   ├── ab_test/      # A/B test readout + Power BI source
 │   ├── charts/
 │   ├── sql_results/
 │   ├── data_quality_report.md
@@ -120,6 +157,8 @@ python python/01_generate_data.py      # create raw data
 python python/02_clean_and_validate.py # clean + build star schema
 python python/03_run_sql.py            # load SQLite + run SQL queries
 python python/04_eda_insights.py       # charts + insights
+python python/05_generate_experiment.py  # A/B test: randomise buildings + pilot data
+python python/06_ab_test_analysis.py     # A/B test: statistics, charts, readout
 ```
 Then open Power BI and follow [`powerbi/BUILD_GUIDE.md`](powerbi/BUILD_GUIDE.md).
 
